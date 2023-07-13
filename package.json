@@ -1,0 +1,15 @@
+{
+  "name": "lukso-tutorials",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@erc725/erc725.js": "^0.17.2",
+    "@lukso/lsp-factory.js": "^2.5.1"
+  }
+}
